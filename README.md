@@ -10,7 +10,7 @@ For testing
    driver.findElement(By.id("Submit")).submit();
    
 
-   System.out.Println("Fresh Direct");
+   System.out.println("Fresh Direct");
    
 
    
