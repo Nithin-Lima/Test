@@ -9,6 +9,9 @@ For testing
    driver.findElement(By.id("InputField")).sendKeys("Search for Elements");
    driver.findElement(By.id("Submit")).submit();
    
+   System.out.Println("Fresh Direct");
+   
+   
 
    
    
