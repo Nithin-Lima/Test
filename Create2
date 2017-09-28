@@ -2,11 +2,7 @@ public test{
 public void main(String args[]){
 
   System.out.println("Enter any number: ");
-
   int j = 10;
-
-
-
   for(int i=2 ; i<10 ; i=i+2)
   {
     System.out.println(i);
